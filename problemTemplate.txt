@@ -1,0 +1,22 @@
+/*
+Problem: %PROBLEM_NAME%
+%PROBLEM_DESCRIPTION%
+- URL: %PROBLEM_URL%
+- Difficulty: %PROBLEM_DIFFICULTY%
+
+Approach: 
+%APPROACH_DESCRIPTION%
+
+Complexity:
+- Time: 
+- Space: 
+
+Key Insights:
+- 
+*/
+
+const %FUNCTION_NAME% = () => {
+    // Solution here
+};
+
+module.exports = %FUNCTION_NAME%;
