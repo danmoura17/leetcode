@@ -8,8 +8,8 @@ Approach:
  -To find the two numbers that add up to the target, we can use a hash map to store the difference between the target and the current number.
 
 Complexity:
-- Time: 
-- Space: 
+- Time: O(n)
+- Space: O(n)
 
 Key Insights:
 - We can use a hash map to store the difference between the target and the current number.
